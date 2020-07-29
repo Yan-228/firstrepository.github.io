@@ -1,0 +1,40 @@
+body {
+	background-color: #012345; 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+	color: silver; 
+	font-size: large; 
+	background-image: url(../Images/Космос.jpg);
+	background-attachment: fixed;
+	}
+blockquote {
+	color: gold;
+	font-family: arial;
+	font-size: x-large;
+	font-style: italic;
+	}
+blockquote.name {
+	position: relative;
+	left: 40px;
+    }
+#green {
+	color: green;
+    }
+#violet {
+	color: #800080;
+    }
+#orange {
+	color: orange;
+    }
+#white {
+	color: white;
+    }
+#figcaption {
+	color: gold;
+    }
+#map {
+	position: relative;
+	left: 120px;
+    }

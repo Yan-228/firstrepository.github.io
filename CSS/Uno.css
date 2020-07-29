@@ -1,0 +1,25 @@
+BODY {
+	background-color: white; 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	padding: 10px 10px 10px 10px;
+	border: 5px solid orange;
+    font-family: Comic Sans MS; 
+	font-size: large;
+    }
+H1 {
+  border-bottom: 10px solid orange;
+  }
+H1,H2 {
+	 color: orange;
+     }
+P {
+ color: navy;
+ } 
+DT {
+  color:navy;
+  font-size: x-large;
+  }
+DD {
+  color: navy;
+  }

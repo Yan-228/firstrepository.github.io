@@ -1,0 +1,13 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #FFFFFF;
+	color: navy;
+	font-family: Montype Corsiva;
+    }
+h1, h2, h3, dt {
+	  text-align: center;
+      }
+strong {
+	  color: #FF0000;
+      }
